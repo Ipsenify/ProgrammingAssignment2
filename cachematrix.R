@@ -5,7 +5,7 @@
 
 
 ## Creates a 'special' matrix with getters and setters for
-## the internal matrix and it's cached inverse
+## the internal matrix and its cached inverse
 makeCacheMatrix <- function(x = matrix()) {
   inv_cache <- NULL
   set <- function(y) {
