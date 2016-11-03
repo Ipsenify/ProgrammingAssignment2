@@ -1,7 +1,7 @@
 ## Sam Ipsen
 ## Programming Assignment 2: Lexical Scoping
 ## 11/3/2016
-## Creates a manages a Matrix with a cache for the Inverse
+## Creates and manages a Matrix with a cache for its Inverse
 
 
 ## Creates a 'special' matrix with getters and setters for
